@@ -8,7 +8,5 @@
  <p> Subject :  <b> Incubyte </b> </P>
  <br>
  <h4> Deliverables </h4>
- <li>
- <ol> Test Cases in Excel </ol>
- <ol> A Link to GIT repo where the cutomation code is comitted. Use BDD to create the Tests. </ol>
- </li>
+ <li> Test Cases in Excel </li>
+ <li> A Link to GIT repo where the cutomation code is comitted. Use BDD to create the Tests. </li>
