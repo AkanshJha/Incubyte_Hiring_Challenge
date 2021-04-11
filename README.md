@@ -10,3 +10,4 @@
  <h4> Deliverables </h4>
  <li> Test Cases in Excel </li>
  <li> A Link to GIT repo where the cutomation code is comitted. Use BDD to create the Tests. </li>
+<Br> Please check Wiki Page for more details.
